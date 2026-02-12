@@ -650,7 +650,7 @@ footer{
         justify-content: center;
       } */
 
-      .circle {
+      .oval>.circle {
         height: 10px;
         width: 10px;
         background-color: #1a1a1a;
